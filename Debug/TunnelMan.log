@@ -1,0 +1,8 @@
+﻿  Actor.cpp
+C:\Users\Sean\Desktop\testing\TunnelMan-skeleton-windows\TunnelMan\TunnelMan\Actor.cpp(1175,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  StudentWorld.cpp
+C:\Users\Sean\Desktop\testing\TunnelMan-skeleton-windows\TunnelMan\TunnelMan\StudentWorld.cpp(333,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sean\Desktop\testing\TunnelMan-skeleton-windows\TunnelMan\TunnelMan\StudentWorld.cpp(388,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sean\Desktop\testing\TunnelMan-skeleton-windows\TunnelMan\TunnelMan\StudentWorld.cpp(802,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  TunnelMan.vcxproj -> C:\Users\Sean\Desktop\testing\TunnelMan-skeleton-windows\TunnelMan\Debug\TunnelMan.exe
