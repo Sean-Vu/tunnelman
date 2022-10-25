@@ -4,4 +4,4 @@ The premise of this project was to create a 2D pixel art game that utilizes obje
 
 The player is represented as an oil miner and is subsequently chased by protestors to deter him from finding oil. 
 
-The player can pick up objects in the environment like gold to bribe the protestor to leave him alone or water pools to deter the proestor directly by shooting. 
+The player can pick up objects in the environment like gold to bribe the protestor to leave him alone or water pools to deter the protestor directly by shooting. 
